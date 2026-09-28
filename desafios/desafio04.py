@@ -1,0 +1,10 @@
+print("| CALCULO DE MÉDIA |")
+print("-"*60)
+
+nota1 = float(input("> Digite a Nota 1: "))
+nota2 = float(input("> Digite a Nota 2: "))
+nota3 = float(input("> Digite a Nota 3: "))
+
+media = (nota1+nota2+nota3)/3
+
+print(f"A média final foi: {media}")

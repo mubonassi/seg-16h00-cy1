@@ -20,3 +20,9 @@ print("10+5 =",calculo)
 
 #Formatando/Exibindo o texto com "F String"
 print(f"O valor é {valor}, a frase é {frase}, a conta deu {calculo}")
+
+variavel1 = ""
+variavel_um = ""
+variavelUm = ""
+
+elevadoAoQuadrado = ""
